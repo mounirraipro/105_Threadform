@@ -1,0 +1,478 @@
+{
+  "name": "Thread Form",
+  "domain": "threadform.org",
+  "slug": "threadform",
+  "genre": "Puzzle",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/2knrg0az59suqmu62j8y6x6kum26f3o5/",
+  "embedSource": "GameMonetize Connectors",
+  "seo": {
+    "title": "Thread Form Online - Play Free No Download",
+    "description": "Play Thread Form online for free. Enjoy a no-download browser game with simple controls, clear goals, and instant play on any device.",
+    "keywords": [
+      "Thread Form",
+      "Thread Form online",
+      "Thread Form free",
+      "free connection puzzle game",
+      "browser game no download",
+      "HTML5 game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Thread Form online for free",
+    "heroSubtitle": "Thread Form is a calm connection puzzle about reading paths and fixing broken circuits. Open it in your browser and start playing without downloads or sign-ups.",
+    "lede": "Play Thread Form free online and practise rotate and connect loose wire pieces until every line carries energy from the source to the target. The game loads through a local play page and works on modern desktop and mobile browsers.",
+    "stats": [
+      {
+        "value": "Wire Paths",
+        "label": "Core Mechanic"
+      },
+      {
+        "value": "Logic Routes",
+        "label": "Main Skill"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
+    ],
+    "about": {
+      "kicker": "What is Thread Form?",
+      "headline": "A focused puzzle game for quick browser sessions.",
+      "paragraph1": "Thread Form gives players a clear, readable challenge: rotate and connect loose wire pieces until every line carries energy from the source to the target. It is easy to start, but better scores come from attention and steady control.",
+      "paragraph2": "There is no account wall, no software installer, and no complicated setup. The page opens the playable game directly so you can spend your time learning the pattern instead of managing downloads."
+    },
+    "howToPlay": {
+      "headline": "Learn Thread Form in a few runs.",
+      "subheading": "Read the goal, make controlled moves, and use each mistake to improve."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Play Page",
+        "desc": "Start the game from the Play page and let the browser window finish loading."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the First Pattern",
+        "desc": "Watch the first few cues before rushing. The opening moments show how the level wants to be played."
+      },
+      {
+        "icon": "refresh",
+        "title": "Use Clean Inputs",
+        "desc": "Move with short, deliberate actions. Smooth control beats fast, nervous corrections."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Plan Ahead",
+        "desc": "Look beyond the next move. Strong runs come from seeing the next choice before it arrives."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Improve Each Attempt",
+        "desc": "After a miss, identify the cause and adjust one habit on the next try."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Starter Lines",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Cross Paths",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Tight Turns",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Full Circuits",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Master Grid",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Open the game and start within moments. No installation, launcher, or account is required."
+      },
+      {
+        "icon": "target",
+        "title": "Skill-Based Progress",
+        "desc": "Better results come from sharper observation, cleaner timing, and smarter decisions."
+      },
+      {
+        "icon": "device",
+        "title": "Desktop and Mobile Friendly",
+        "desc": "The game runs in modern browsers with mouse, trackpad, or touch input depending on your device."
+      },
+      {
+        "icon": "image",
+        "title": "Readable Visual Cues",
+        "desc": "Bright, simple presentation keeps attention on the next move and makes mistakes easy to understand."
+      },
+      {
+        "icon": "shield",
+        "title": "Family-Suitable Format",
+        "desc": "No chat, no account profiles, and no in-app purchases are required on this site."
+      },
+      {
+        "icon": "music",
+        "title": "Sound-Aware Play",
+        "desc": "Audio cues and feedback help mark progress while staying optional for quiet sessions."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Thread Form?",
+        "a": "Thread Form is a free browser game where players rotate and connect loose wire pieces until every line carries energy from the source to the target. It is designed for short, focused play sessions."
+      },
+      {
+        "q": "Is Thread Form free?",
+        "a": "Yes. The game is free to play in your browser, with no download and no account required."
+      },
+      {
+        "q": "Does Thread Form work on mobile?",
+        "a": "Yes. It works in modern mobile browsers, although performance depends on your device and connection."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "The embedded game provides its own level or run structure. Use the in-game prompts to follow progress and objectives."
+      },
+      {
+        "q": "Is Thread Form safe for kids?",
+        "a": "The site avoids social features, account creation, and in-app purchases. Parents should still supervise online play and set sensible time limits."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No. Open the Play page and start directly from the browser."
+      }
+    ],
+    "cta": {
+      "headline": "Start a clean run now.",
+      "subtext": "Open Thread Form, learn the first pattern, and improve one move at a time."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Thread Form",
+        "desc": "Use the Play page and wait for the embedded game window to load."
+      },
+      {
+        "title": "Follow the Cues",
+        "desc": "Watch the screen prompts and learn the control rhythm during the first attempt."
+      },
+      {
+        "title": "Replay Smarter",
+        "desc": "Use each restart to fix one specific mistake rather than rushing blindly."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Is Thread Form really free?",
+        "a": "Yes. It is free to play through the browser with no required purchase or registration."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Desktop, laptop, tablet, and mobile browsers can load the game. A current browser gives the best experience."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "The main challenge is to rotate and connect loose wire pieces until every line carries energy from the source to the target. The in-game screen explains the immediate objective."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "The playable embed controls its own level list, run length, and progression. Check the in-game interface for current progress."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "No. The game needs an internet connection because it loads from an external HTML5 game provider through a local wrapper."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress depends on the embedded game and your browser storage. Clearing browser data can remove local progress."
+      },
+      {
+        "q": "Is Thread Form safe for children?",
+        "a": "The site does not require profiles, chat, or in-app purchases. Adult supervision is still recommended for children using the web."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is needed. The Play page launches the game directly."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Thread Form is built around a clear loop: rotate and connect loose wire pieces until every line carries energy from the source to the target. Start slowly, watch the cues, and improve through controlled repeat attempts.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Go to the Play page and let the iframe load fully before interacting."
+      },
+      {
+        "title": "Understand the Goal",
+        "desc": "Use the first attempt to learn what the game rewards and what causes a miss."
+      },
+      {
+        "title": "Make Controlled Moves",
+        "desc": "Keep inputs small and deliberate. Accuracy matters more than rushing."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Players rotate and connect loose wire pieces until every line carries energy from the source to the target. Success comes from reading the screen early and committing to clean inputs."
+    },
+    "difficultyProgression": "The opening moments teach the basic rhythm. Later sections ask for faster recognition, better positioning, and fewer wasted moves.",
+    "tips": [
+      {
+        "title": "Watch before reacting",
+        "desc": "Give yourself a moment to read the next cue before moving."
+      },
+      {
+        "title": "Keep inputs smooth",
+        "desc": "Small corrections are easier to control than sudden wide movements."
+      },
+      {
+        "title": "Learn repeated cues",
+        "desc": "Patterns return often, so remember what worked on earlier attempts."
+      },
+      {
+        "title": "Fix one mistake at a time",
+        "desc": "Choose one habit to improve on the next run instead of changing everything."
+      },
+      {
+        "title": "Take short breaks",
+        "desc": "Stop when focus drops. Fresh attention leads to cleaner play."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Useful guides for playing Thread Form with better timing, clearer decisions, and safer screen habits.",
+    "introParagraph": "Read practical advice for Thread Form, from first-run basics to parent guidance and focused improvement.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Thread Form: A Complete Beginner's Guide",
+        "excerpt": "Learn the goal, controls, and first habits that make Thread Form easier to understand from the opening run.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "map",
+        "sections": [
+          {
+            "heading": "What Is Thread Form?",
+            "paragraphs": [
+              "Thread Form is a free browser game that opens instantly and focuses on one clear idea: rotate and connect loose wire pieces until every line carries energy from the source to the target. The rules are easy to understand, but strong play still rewards attention, timing, and calm decision-making.",
+              "The game works well for quick breaks because each attempt gives immediate feedback. You do not need an account, a download, or a long tutorial. Open the play page, learn the first pattern, and improve through short repeatable sessions."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Use the Play page and wait for the local game window to load. The game runs inside the browser, so desktop, tablet, and mobile players can start without installing a separate app.",
+              "If the screen takes a moment to appear, let the iframe finish loading before refreshing. A stable internet connection helps the first load, while later restarts usually feel quicker once the browser has cached the game files."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "Spend the first run learning the control response instead of chasing a perfect score. Notice how fast the game reacts, where mistakes happen, and which visual cues warn you before the next decision.",
+              "After a few attempts, focus on one improvement at a time. Cleaner timing, better route reading, and fewer rushed moves matter more than speed. That approach builds reliable habits without turning a casual session into work."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Open the game, keep the first few attempts relaxed, and use each mistake as information for the next run. The best early progress comes from staying patient and learning the pattern language."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips and Tricks for Thread Form",
+        "excerpt": "Practical habits for cleaner moves, fewer mistakes, and more consistent sessions in Thread Form.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "bulb",
+        "sections": [
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "Start by reading the full layout before making a move. Most mistakes happen when a player fixes the first obvious piece and blocks a stronger route later. Look for forced moves, corners, matching colours, or pieces with only one useful position. Once those are solved, the rest of the puzzle becomes easier to reason through. Good play comes from reducing uncertainty one decision at a time.",
+              "Do not restart every time the opening feels imperfect. Playing through small errors teaches recovery, and recovery is part of real skill. Finish runs when possible, then analyse the mistake after the level ends."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "A quick pause often saves more time than a rushed move. Look for the next two decisions, not only the one directly in front of you. This habit prevents traps and makes the game feel slower than it looks.",
+              "On mobile, keep your finger movement controlled and avoid covering important parts of the play area. On desktop, use measured mouse movement rather than sharp swipes. Smooth input produces more consistent results."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "Repeated shapes, colour cues, rhythm changes, and route layouts are not random noise. They teach you what the game expects next. Once you recognise a pattern, you spend less energy reacting and more energy planning.",
+              "Keep a mental note of the mistakes that repeat. If the same turn, tile, or gate keeps causing problems, slow down before that moment on the next attempt. Targeted practice beats blind repetition."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "Experienced players simplify the screen. They ignore decoration, focus on the next useful cue, and commit to clean inputs. That keeps attention on the small number of details that actually change the outcome.",
+              "When the difficulty rises, resist the urge to play faster than the game requires. Accuracy creates speed naturally. Clean choices reduce panic, and reduced panic leads to higher scores over time."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Thread Form",
+        "excerpt": "How focused browser play can support attention, planning, timing, and healthier short-session screen time.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "brain",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Puzzle games train working memory, pattern recognition, and planning. Each level asks you to hold several possible moves in mind, test them mentally, and choose the route with the fewest conflicts. That active thinking makes browser puzzles more useful than passive screen time. A short, focused session can feel relaxing while still giving the brain a clear workout.",
+              "The benefit comes from active play. You observe a situation, make a decision, see the result, and adjust. That feedback loop supports concentration because the screen gives you a meaningful task rather than an endless stream of unrelated content."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Every failed attempt contains useful information. You learn which cue you missed, which move came too early, or which route created a dead end. That process strengthens practical problem-solving because it links cause and effect clearly.",
+              "Players who improve steadily usually ask one simple question after a mistake: what changed just before it happened? That habit turns frustration into analysis and makes the next attempt more productive."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Short browser games can create a focused break between heavier tasks. The rules are contained, the goal is visible, and a round ends quickly. That structure helps players reset without committing to a long session.",
+              "The healthiest approach is deliberate play. Choose a short window, play attentively, then stop when the break has done its job. That keeps the game relaxing and prevents casual play from crowding out other priorities."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Thread Form does not require account creation or social interaction. Parents can treat it as simple browser play rather than a social platform, which makes supervision easier.",
+              "As with any online game, children should play with sensible time limits and an adult nearby when needed. The best value comes from calm, active play in short sessions, not from leaving the screen open indefinitely."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Thread Form",
+        "excerpt": "A focused improvement guide for players who want steadier control and fewer repeated mistakes.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "chart",
+        "sections": [
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "Consistency beats dramatic plays. Aim for reliable inputs, clear decisions, and fewer avoidable mistakes before you chase high scores. Once the basics feel automatic, faster play arrives without forcing it.",
+              "Use the same control style for several sessions. Switching constantly between mouse, trackpad, and touch makes it harder to build muscle memory. Pick the device that feels comfortable and practise there first."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "After a failed attempt, name the mistake in plain language. Did you move too late, choose the wrong route, ignore a cue, or lose focus? A named mistake is easier to fix than a vague feeling that the level is unfair.",
+              "Avoid blaming every loss on speed. Many errors start earlier, when a player stops scanning ahead. Review the moment before the failure and identify the warning sign you missed."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "Create a simple rule for common situations. For example, slow down before crowded sections, prioritise stable routes, or return to centre after each risky move. Personal rules reduce hesitation when the screen becomes busy.",
+              "Change one rule at a time. If you alter everything after each attempt, you never learn which adjustment helped. Small, deliberate changes make progress easier to measure."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Ten focused minutes usually teach more than an hour of tired play. Stop when your inputs become sloppy, then return later with fresh attention. Skill grows faster when practice stays clean.",
+              "Keep sessions enjoyable. The point is to improve while still treating the game as a break. A relaxed player notices more, reacts better, and learns patterns with less frustration."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Thread Form for Kids: A Parent's Complete Guide",
+        "excerpt": "What parents should know about safe browser play, time limits, adverts, and learning value in Thread Form.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "family",
+        "sections": [
+          {
+            "heading": "Is Thread Form Safe for Children?",
+            "paragraphs": [
+              "Thread Form is simple browser play with no account requirement, no chat, no user-generated content, and no in-app purchases on this site. That removes the main risks parents usually associate with online multiplayer platforms.",
+              "Advertising, when present through third-party game delivery, should never be treated as permission for unsupervised play. The site content avoids ads targeting children, and parents should still use normal supervision, device settings, and time limits for younger players."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "The game supports attention, timing, and pattern recognition. Children practise noticing a cue, making a choice, and seeing the result immediately. That loop can be useful when sessions stay short and calm.",
+              "It is not a substitute for homework, reading, outdoor play, or sleep. Treat it as light active screen time: better than passive scrolling, but still something that belongs inside a balanced routine."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Set the time limit before play starts. A clear ten or twenty minute window prevents arguments and helps children understand that games fit around family rules rather than replacing them.",
+              "For younger children, play the first session together. Ask what they noticed, where they made a decision, and what they would try next. That turns screen time into a conversation about planning and self-control."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "The site does not ask children to create profiles, submit personal details, or share messages with other players. That keeps the experience closer to anonymous browser play.",
+              "Parents with privacy concerns should review the privacy policy and use browser-level protections where appropriate. Safe play works best when simple site design and active family supervision support each other."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
